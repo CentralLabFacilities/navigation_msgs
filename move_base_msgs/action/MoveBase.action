@@ -1,5 +1,5 @@
 geometry_msgs/PoseStamped target_pose
 ---
-int32 replan
 ---
 geometry_msgs/PoseStamped base_position
+int32 replan
