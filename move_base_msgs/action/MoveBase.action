@@ -1,4 +1,6 @@
 geometry_msgs/PoseStamped target_pose
+float32 planar_velocity
+float32 angular_velocity
 ---
 ---
 geometry_msgs/PoseStamped base_position
